@@ -5,7 +5,7 @@ package demo;
  * 包含普通方法 + 抽象方法。
  */
 public abstract class Person {
-    // 使用 protected，让子类可以访问
+    // 使用 protected，让子类可以访问 
     protected String name;
     protected int age;
 
